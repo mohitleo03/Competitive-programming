@@ -1,0 +1,16 @@
+Input
+
+0 < G < 10^5  ,  G = numbre of gold ignots
+B, H -  breadth, height (space sepreted)
+G - length of all gold ignots (space sepreted)
+
+find max cuboid
+
+Output
+
+(total area of ignots - max cuboid area)* height
+
+
+
+area= 6*1
+area = 6*1 + if(l<6){ 5 * i * B} else {}
