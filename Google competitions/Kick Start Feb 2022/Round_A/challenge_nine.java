@@ -30,7 +30,6 @@ public class challenge_nine {
                 for(int k = 1 ; k < orignal.length() ; k++)
                     new_num+=temp[k];
                 main_result[t] = Integer.parseInt(new_num);
-                
             }
             else{
                 int add = 9-(sum%9);
